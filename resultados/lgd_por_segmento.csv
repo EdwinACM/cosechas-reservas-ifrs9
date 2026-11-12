@@ -1,0 +1,5 @@
+segmento,incumplimientos,ead_total,tasa_descuento_mensual,lgd_sin_descontar,lgd_descontada,incumplimientos_ventana_completa,lgd_realizada_ventana_completa
+global,3065,74920155.61,0.02855,0.66295,0.72584,468,0.71304
+nomina,750,17817231.34,0.02861,0.64335,0.71053,113,0.68028
+sucursal,1051,24873879.88,0.02857,0.64605,0.71214,167,0.70468
+digital,1264,32229044.39,0.0285,0.686,0.74432,188,0.73972

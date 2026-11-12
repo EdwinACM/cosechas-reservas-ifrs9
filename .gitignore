@@ -1,0 +1,7 @@
+# Datos sintéticos pesados (se regeneran con paso0_generar_datos.py)
+datos/panel.csv.gz
+
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store

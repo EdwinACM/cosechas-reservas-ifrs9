@@ -1,0 +1,10 @@
+etapa,escenario,creditos,pd_12m,pd_vida,pd_12m_ponderada_saldo,pd_origen_vida
+etapa 1,base,16154,0.0285,0.03746,0.03284,0.0359
+etapa 2,base,590,0.37929,0.38421,0.45778,0.05298
+etapa 1,adverso,16154,0.04151,0.0622,0.04883,0.0359
+etapa 2,adverso,590,0.38968,0.40048,0.47053,0.05298
+etapa 1,optimista,16154,0.02585,0.0328,0.02962,0.0359
+etapa 2,optimista,590,0.37681,0.3807,0.45484,0.05298
+etapa 1,ponderado,16154,0.03187,0.04395,,0.0359
+etapa 2,ponderado,590,0.38191,0.38839,,0.05298
+etapa 3,todos,2668,1.0,1.0,1.0,

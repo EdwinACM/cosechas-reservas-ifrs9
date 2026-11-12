@@ -1,0 +1,22 @@
+{
+  "corte": "2025-12",
+  "creditos_vigentes": 16744,
+  "creditos_etapa3": 2668,
+  "creditos_castigados_mas_24m": 397,
+  "saldo_castigado_neto": 7061191.1,
+  "reserva_total": 50747320.432119444,
+  "reserva_matriz_total": 39829683.8112753,
+  "reserva_etapa12": 7172508.95011106,
+  "reserva_matriz_etapa12": 9574845.884103665,
+  "desempleo_corte": 4.564,
+  "desempleo_medio_12m": {
+    "base": 4.493695100691593,
+    "adverso": 5.618166666666666,
+    "optimista": 4.205659416350016
+  },
+  "lgd_media": {
+    "base": 0.7294380505784185,
+    "adverso": 0.7565114401737387,
+    "optimista": 0.7220315857439984
+  }
+}

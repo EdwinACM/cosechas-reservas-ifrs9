@@ -1,0 +1,25 @@
+modelo,variable,coeficiente,razon_de_momios
+entrada,score_z,-0.5427,0.5812
+entrada,dti_z,0.3024,1.3531
+entrada,canal_sucursal,0.3144,1.3695
+entrada,canal_digital,0.5973,1.8172
+entrada,plazo_z,0.1049,1.1106
+entrada,desempleo (por punto porcentual),0.3176,1.3738
+sube1,score_z,-0.3087,0.7344
+sube1,dti_z,0.1699,1.1852
+sube1,canal_sucursal,0.2047,1.2271
+sube1,canal_digital,0.3053,1.3571
+sube1,plazo_z,0.0663,1.0686
+sube1,desempleo (por punto porcentual),0.2192,1.2451
+sube2,score_z,-0.2763,0.7586
+sube2,dti_z,0.1236,1.1316
+sube2,canal_sucursal,0.1654,1.1799
+sube2,canal_digital,0.333,1.3952
+sube2,plazo_z,0.0219,1.0222
+sube2,desempleo (por punto porcentual),0.1293,1.1381
+sube3,score_z,-0.2601,0.771
+sube3,dti_z,0.1139,1.1207
+sube3,canal_sucursal,0.2716,1.3121
+sube3,canal_digital,0.4048,1.499
+sube3,plazo_z,0.1551,1.1677
+sube3,desempleo (por punto porcentual),0.1308,1.1397

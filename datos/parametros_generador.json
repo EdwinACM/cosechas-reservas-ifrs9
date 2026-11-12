@@ -1,0 +1,42 @@
+{
+  "semilla": 42,
+  "n_prestamos": 50000,
+  "A0_entrada_mora": -4.75,
+  "A_ascenso": {
+    "1": -0.55,
+    "2": 0.25,
+    "3": 0.95
+  },
+  "gamma_ascenso": 0.6,
+  "prob_baja_un_bucket": {
+    "2": 0.15,
+    "3": 0.1
+  },
+  "beta_score": -0.55,
+  "beta_dti": 0.3,
+  "beta_plazo": 0.1,
+  "efecto_canal": {
+    "nomina": -0.35,
+    "sucursal": 0.0,
+    "digital": 0.3
+  },
+  "sigma_fragilidad": 0.45,
+  "sigma_cosecha": 0.06,
+  "beta_desempleo": 0.35,
+  "estacionalidad": [
+    0.2,
+    0.1,
+    0.0,
+    0.0,
+    0.0,
+    -0.02,
+    0.05,
+    0.05,
+    0.05,
+    0.0,
+    -0.08,
+    -0.2
+  ],
+  "recuperacion_media": 0.4,
+  "recuperacion_pend_desempleo": -0.06
+}
